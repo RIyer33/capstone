@@ -1,0 +1,9 @@
+TRUNCATE TABLE public.staging_visa;
+TRUNCATE TABLE public.staging_travel_mode;
+TRUNCATE TABLE public.staging_country;
+TRUNCATE TABLE public.staging_ports;
+TRUNCATE TABLE public.staging_date;
+TRUNCATE TABLE public.staging_airports;
+TRUNCATE TABLE public.staging_climate;
+TRUNCATE TABLE public.staging_city;
+TRUNCATE TABLE staging_immigration;
